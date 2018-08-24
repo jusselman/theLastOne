@@ -1,0 +1,14 @@
+* {
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+}
+
+.title {
+	margin: 400px auto;
+	color: #fff;
+	font-size: 60px;
+	position: absolute;
+	text-align: center;
+
+}
